@@ -1,0 +1,4 @@
+﻿  plikidanych.cpp
+C:\Users\User\source\repos\plikidanych\plikidanych\plikidanych.cpp(76,6): warning C4101: 'choice': unreferenced local variable
+C:\Users\User\source\repos\plikidanych\plikidanych\plikidanych.cpp(77,6): warning C4101: 'dane': unreferenced local variable
+  plikidanych.vcxproj -> C:\Users\User\source\repos\plikidanych\x64\Debug\plikidanych.exe
