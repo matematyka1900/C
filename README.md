@@ -1,2 +1,2 @@
 # C
-all my basic files from my first year of studying
+all my basic files at my first year of studying
